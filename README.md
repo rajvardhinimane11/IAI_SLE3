@@ -207,7 +207,7 @@ The actual execution performance depends on the graph structure and selected goa
 
 Clone the repository:
 
-git clone 
+git clone https://github.com/rajvardhinimane11/IAI_SLE3/tree/main
 
 Move into the project directory:
 
@@ -241,3 +241,4 @@ The project demonstrates the practical application of graph search algorithms an
 
 GitHub Repository:
 
+https://github.com/rajvardhinimane11/IAI_SLE3/tree/main
